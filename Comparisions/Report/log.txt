@@ -1,0 +1,189 @@
+> cat("D Tree total accuracy", dtSum/10,"\n")
+D Tree total accuracy 78.90452 
+> cat("D Tree total Precision", mean(dtPrec)/10,"\n")
+D Tree total Precision 46.07081 
+> 
+
+> cat("D Tree total accuracy", dtSum/10,"\n")
+D Tree total accuracy 84.91475 
+> cat("D Tree total Precision", mean(dtPrec)/10,"\n")
+D Tree total Precision 57.99648 
+
+> cat("D Tree total accuracy", dtSum/10,"\n")
+D Tree total accuracy 94.5844 
+> cat("D Tree total Precision", mean(dtPrec)/10,"\n")
+D Tree total Precision 89.50664 
+
+> cat("Perceptron total accuracy", pSum/10,"\n")
+Perceptron total accuracy 55.92497869 
+> cat("Perceptron total Precision", mean(pPrec)/10,"\n")
+Perceptron total Precision 81.4049106 
+
+> cat("Perceptron total accuracy", pSum/10,"\n")
+Perceptron total accuracy 87.25703325 
+> cat("Perceptron total Precision", mean(pPrec)/10,"\n")
+Perceptron total Precision 86.05189589 
+> 
+
+> cat("NeuralNet total accuracy", nnSum/10,"\n")
+NeuralNet total accuracy 97.66197783 
+> cat("NeuralNet total Precision", mean(nnPrec)/10,"\n")
+NeuralNet total Precision 97.88146965 
+> 
+
+cat("NeuralNet total accuracy", nnSum/10,"\n")
+NeuralNet total accuracy 65.02344416 
+> cat("NeuralNet total Precision", mean(nnPrec)/10,"\n")
+NeuralNet total Precision 169.2189856 
+> 
+
+ cat("NeuralNet total accuracy", nnSum/10,"\n")
+NeuralNet total accuracy 98.10315431 
+> cat("NeuralNet total Precision", mean(nnPrec)/10,"\n")
+NeuralNet total Precision 98.28659076 
+> 
+
+ cat("NeuralNet total accuracy", dlSum/10,"\n")
+NeuralNet total accuracy 93.90025575 
+> cat("NeuralNet total Precision", mean(dlPrec)/10,"\n")
+NeuralNet total Precision 99.22977828 
+> 
+> cat("Deep learning total accuracy", dlSum/10,"\n")
+Deep learning total accuracy 65.02344416 
+> cat("Deep learning total Precision", mean(dlPrec)/10,"\n")
+Deep learning total Precision 169.2189856 
+> 
+
+> cat("Deep learning accuracy", dlSum/10,"\n")
+Deep learning accuracy 97.06947997 
+> cat("Deep learning total Precision", mean(dlPrec)/10,"\n")
+Deep learning total Precision 122.5876302 
+> 
+
+> cat("Bagging accuracy", baggSum/10,"\n")
+Bagging accuracy 96.0571185 
+> cat("Bagging Precision", mean(baggPrec)/10,"\n")
+Bagging Precision 179.1296999 
+> 
+
+> cat("Bagging accuracy", baggSum/10,"\n")
+Bagging accuracy 95.91005968 
+> cat("Bagging Precision", mean(baggPrec)/10,"\n")
+Bagging Precision 179.1296999 
+> 
+
+> cat("Ada boosting total accuracy", adbSum/10,"\n")
+Ada boosting total accuracy 94.29028133 
+> cat("Random Forest total Precision", mean(adbPrec)/10,"\n")
+Random Forest total Precision 94.25347691 
+> 
+
+ cat("Gradient Boosting total accuracy", gbmSum/10,"\n")
+Gradient Boosting total accuracy 80.67774936 
+> cat("Gradient Boosting total Precision", mean(gbmPrec)/10,"\n")
+Gradient Boosting total Precision 73.89993779 
+> 
+
+> cat("Perceptron total accuracy", percSum/10,"\n")
+Perceptron total accuracy 98.68499574 
+> cat("Perceptron total Precision", mean(pPrec)/10,"\n")
+Perceptron total Precision 98.69445429 
+> cat("Neural Net total accuracy", nnAcc/10,"\n")
+Neural Net total accuracy 97.95396419 
+> cat("Neural Net total Precision", mean(nnPrec)/10,"\n")
+Neural Net total Precision 98.10607736 
+> cat("Decision treetotal accuracy", dtAcc/10,"\n")
+Decision treetotal accuracy 94.58439898 
+> cat("Decision treetotal Precision", mean(dtPrec)/10,"\n")
+Decision treetotal Precision 89.50663889 
+> cat("Deep learning total accuracy", dlAcc/10,"\n")
+Deep learning total accuracy 97.95396419 
+> cat("Deep learning total Precision", mean(dlPrec)/10,"\n")
+Deep learning total Precision 98.19079555 
+> cat("SVM total accuracy", svmAcc/10,"\n")
+SVM total accuracy 88.17348679 
+> cat("SVM total Precision", mean(svmPrec)/10,"\n")
+SVM total Precision 169.2189856 
+> cat("Random forest total accuracy", rfAcc/10,"\n")
+Random forest total accuracy 97.0801364 
+> cat("Random forest total Precision", mean(rfPrec)/10,"\n")
+Random forest total Precision 96.77728886 
+> cat("Ada boost total accuracy", adbAcc/10,"\n")
+Ada boost total accuracy 96.49616368 
+> cat("Ada boost total Precision", mean(adbPrec)/10,"\n")
+Ada boost total Precision 95.90500448 
+> cat("Gradient boost total accuracy", gbmAcc/10,"\n")
+Gradient boost total accuracy 82.13341858 
+> cat("Gradient boost total Precision", mean(gbmPrec)/10,"\n")
+Gradient boost total Precision 85.76006108 
+> cat("Naive bayesian total accuracy", nbAcc/10,"\n")
+Naive bayesian total accuracy 96.34484228 
+> cat("Naive bayesian total Precision", mean(nbPrec)/10,"\n")
+Naive bayesian total Precision 96.50909409 
+> cat("Logistic Regression total accuracy", lrAcc/10,"\n")
+Logistic Regression total accuracy 96.78601876 
+> cat("Logistic Regression total Precision", mean(lrPrec)/10,"\n")
+Logistic Regression total Precision 96.55036228 
+> cat("K-NN total accuracy", knnAcc/10,"\n")
+K-NN total accuracy 96.35549872 
+> cat("K-NN total Precision", mean(knnPrec)/10,"\n")
+K-NN total Precision 95.82210252 
+> cat("Bagging total accuracy", baggAcc/10,"\n")
+Bagging total accuracy 96.49616368 
+> cat("Bagging total Precision", mean(baggPrec)/10,"\n")
+Bagging total Precision 105.7328168 
+> 
+
+
+
+
+> cat("Perceptron total accuracy", percSum/10,"\n")
+Perceptron total accuracy 98.68286445 
+> cat("Perceptron total Precision", mean(pPrec)/10,"\n")
+Perceptron total Precision 98.65474707 
+> cat("Neural Net total accuracy", nnAcc/10,"\n")
+Neural Net total accuracy 98.10102302 
+> cat("Neural Net total Precision", mean(nnPrec)/10,"\n")
+Neural Net total Precision 98.2498705 
+> cat("Decision treetotal accuracy", dtAcc/10,"\n")
+Decision treetotal accuracy 94.58439898 
+> cat("Decision treetotal Precision", mean(dtPrec)/10,"\n")
+Decision treetotal Precision 89.50663889 
+> cat("Deep learning total accuracy", dlAcc/10,"\n")
+Deep learning total accuracy 95.45396419 
+> cat("Deep learning total Precision", mean(dlPrec)/10,"\n")
+Deep learning total Precision 109.2785285 
+> cat("SVM total accuracy", svmAcc/10,"\n")
+SVM total accuracy 88.17348679 
+> cat("SVM total Precision", mean(svmPrec)/10,"\n")
+SVM total Precision 169.2189856 
+> cat("Random forest total accuracy", rfAcc/10,"\n")
+Random forest total accuracy 97.37212276 
+> cat("Random forest total Precision", mean(rfPrec)/10,"\n")
+Random forest total Precision 97.10953287 
+> cat("Ada boost total accuracy", adbAcc/10,"\n")
+Ada boost total accuracy 95.47101449 
+> cat("Ada boost total Precision", mean(adbPrec)/10,"\n")
+Ada boost total Precision 95.22359968 
+> cat("Gradient boost total accuracy", gbmAcc/10,"\n")
+Gradient boost total accuracy 80.67561807 
+> cat("Gradient boost total Precision", mean(gbmPrec)/10,"\n")
+Gradient boost total Precision 82.3181132 
+> cat("Naive bayesian total accuracy", nbAcc/10,"\n")
+Naive bayesian total accuracy 96.34484228 
+> cat("Naive bayesian total Precision", mean(nbPrec)/10,"\n")
+Naive bayesian total Precision 96.50909409 
+> cat("Logistic Regression total accuracy", lrAcc/10,"\n")
+Logistic Regression total accuracy 96.78601876 
+> cat("Logistic Regression total Precision", mean(lrPrec)/10,"\n")
+Logistic Regression total Precision 96.55036228 
+> cat("K-NN total accuracy", knnAcc/10,"\n")
+K-NN total accuracy 96.35549872 
+> cat("K-NN total Precision", mean(knnPrec)/10,"\n")
+K-NN total Precision 95.82210252 
+> cat("Bagging total accuracy", baggAcc/10,"\n")
+Bagging total accuracy 95.91219096 
+> cat("Bagging total Precision", mean(baggPrec)/10,"\n")
+Bagging total Precision 105.7328168 
+
+
