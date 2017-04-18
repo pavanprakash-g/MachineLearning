@@ -46,8 +46,8 @@ ggplot(data = imgRGB, aes(x = x, y = y)) +
   geom_point(colour = rgb(imgRGB[c("R", "G", "B")])) +
   labs(title = "Original Image") +
   xlab("x") +
-  ylab("y") #+
-  #plotTheme()
+  ylab("y") +
+  plotTheme()
 
 kClusters <- 3
 kMeans <- kmeans(imgRGB[, c("R", "G", "B")], centers = kClusters)
